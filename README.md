@@ -33,9 +33,8 @@ ___
 <img src="./img/Git_icon.svg" alt="Logo do GIT" width="40" height="40" style="margin: 10px" /></a>]("https://git-scm.com")
 &nbsp;&nbsp;&nbsp;
 
-</br></br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-silva-oliveira&hide=stars,issues&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![g-silva-oliveira's GitHub stats](https://my-github-readme-stats-git-master-g-silva-oliveira.vercel.app/api?username=g-silva-oliveira&hide=stars,issues&theme=cobalt)](https://github.com/g-silva-oliveira)
 
 ##### FOLLOW ME ON
 
