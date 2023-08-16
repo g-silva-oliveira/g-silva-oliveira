@@ -2,6 +2,7 @@
 #### *A full-stack developer*
 ##### WHAT YOU WILL FIND
 
+<img src="https://komarev.com/ghpvc/?username=g-silva-oliveira&color=brightgreen" alt="watching_count" />
 - Curiosities about me
 - Developer skills
 
@@ -24,7 +25,7 @@ ___
 <img src="./img/nodejs-1.svg" alt="Logo do NodeJs" width="60" height="40" style="margin: 10px" /></a>]("https://nodejs.org/en")
 &nbsp;&nbsp;&nbsp;
 [<a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer">
-<img src="./img/react-2.svg" alt="Logo do React Native" width="60" height="40" style="margin: 10px" /></a>]("https://reactnative.dev")
+<img src="./img/react-2.svg" alt="Logo do React Native" width="40" height="40" style="margin: 10px" /></a>]("https://reactnative.dev")
 &nbsp;&nbsp;&nbsp;
 [<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
 <img src="./img/python.png" alt="Logo do Python" width="40" height="40" style="margin: 10px" /></a>]("https://www.python.org")
@@ -34,7 +35,7 @@ ___
 &nbsp;&nbsp;&nbsp;
 
 
-[![g-silva-oliveira's GitHub stats](https://my-github-readme-stats-git-master-g-silva-oliveira.vercel.app/api?username=g-silva-oliveira&hide=stars,issues&theme=cobalt)](https://github.com/g-silva-oliveira)
+![](https://myreadme.vercel.app/api/embed/g-silva-oliveira?panels=commitgraph)
 
 ##### FOLLOW ME ON
 
