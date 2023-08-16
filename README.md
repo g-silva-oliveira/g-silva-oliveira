@@ -3,10 +3,10 @@
 ##### WHAT YOU WILL FIND
 
 <img src="https://komarev.com/ghpvc/?username=g-silva-oliveira&color=brightgreen" alt="watching_count" />
+
 - Curiosities about me
 - Developer skills
-
- *[Personal Github](https://github.com/Gui-Alucard) - Here you can follow my journey to become a Dev*</br>
+- *[Personal Github](https://github.com/Gui-Alucard) - Here you can follow my journey to become a Dev*</br>
 
 ##### A LITTLE ABOUT ME
 
